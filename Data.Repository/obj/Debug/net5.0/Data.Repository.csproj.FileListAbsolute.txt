@@ -1,0 +1,15 @@
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/Data.Repository.deps.json
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/Data.Repository.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/ref/Data.Repository.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/Data.Repository.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/Entities.Model.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/bin/Debug/net5.0/Entities.Model.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.csproj.AssemblyReference.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.AssemblyInfoInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.AssemblyInfo.cs
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.csproj.CoreCompileInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.csproj.CopyComplete
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/ref/Data.Repository.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Data.Repository/obj/Debug/net5.0/Data.Repository.pdb

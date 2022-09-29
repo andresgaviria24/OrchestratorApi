@@ -1,0 +1,17 @@
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.Mapping.deps.json
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.Mapping.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/ref/Entities.Mapping.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.Mapping.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.DTO.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.Model.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.DTO.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/bin/Debug/net5.0/Entities.Model.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.csproj.AssemblyReference.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.AssemblyInfoInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.AssemblyInfo.cs
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.csproj.CoreCompileInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.csproj.CopyComplete
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/ref/Entities.Mapping.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.Mapping/obj/Debug/net5.0/Entities.Mapping.pdb

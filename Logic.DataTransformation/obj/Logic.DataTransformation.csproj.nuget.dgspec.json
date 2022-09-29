@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Logic.DataTransformation/Logic.DataTransformation.csproj": {}
+  },
+  "projects": {
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/Data.Repository.csproj",
+        "projectName": "Data.Repository",
+        "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/Data.Repository.csproj",
+        "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
+        "outputPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fgaviriaocam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            },
+            "MongoDbGenericRepository": {
+              "target": "Package",
+              "version": "[1.4.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj",
+        "projectName": "Entities.DTO",
+        "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj",
+        "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
+        "outputPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fgaviriaocam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj",
+        "projectName": "Entities.Mapping",
+        "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj",
+        "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
+        "outputPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fgaviriaocam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj"
+              },
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[28.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj",
+        "projectName": "Entities.Model",
+        "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj",
+        "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
+        "outputPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fgaviriaocam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.17.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Logic.DataTransformation/Logic.DataTransformation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Logic.DataTransformation/Logic.DataTransformation.csproj",
+        "projectName": "Logic.DataTransformation",
+        "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Logic.DataTransformation/Logic.DataTransformation.csproj",
+        "packagesPath": "/Users/fgaviriaocam/.nuget/packages/",
+        "outputPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Logic.DataTransformation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fgaviriaocam/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/Data.Repository.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Data.Repository/Data.Repository.csproj"
+              },
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.DTO/Entities.DTO.csproj"
+              },
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj"
+              },
+              "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj": {
+                "projectPath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Model/Entities.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.SecretsManager.Caching": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[28.0.1, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

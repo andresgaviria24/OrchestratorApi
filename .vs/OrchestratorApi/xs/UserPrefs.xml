@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9A335697-D624-4CBE-828C-9798376C54DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Logic.DataTransformation/SecurityManager/SecurityManager.cs">
+    <Files>
+      <File FileName="Data.Repository/MongoDBDI.cs" Line="15" Column="86" />
+      <File FileName="Logic.DataTransformation/SecurityManager/SecurityManager.cs" Line="84" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrchestratorApi" expanded="True">
+            <Node name="02 Logic" expanded="True">
+              <Node name="Logic.DataTransformation" expanded="True">
+                <Node name="SecurityManager" expanded="True">
+                  <Node name="SecurityManager.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="03 Data Access" expanded="True">
+              <Node name="Data.Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.01_220Web_220Api.OrchestratorApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

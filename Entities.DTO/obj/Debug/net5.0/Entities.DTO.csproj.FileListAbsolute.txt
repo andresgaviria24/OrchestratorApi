@@ -1,0 +1,12 @@
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/bin/Debug/net5.0/Entities.DTO.deps.json
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/bin/Debug/net5.0/Entities.DTO.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/bin/Debug/net5.0/ref/Entities.DTO.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/bin/Debug/net5.0/Entities.DTO.pdb
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.csproj.AssemblyReference.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.AssemblyInfoInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.AssemblyInfo.cs
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.csproj.CoreCompileInputs.cache
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/ref/Entities.DTO.dll
+/Users/fgaviriaocam/Downloads/orchestrator-api-master/Entities.DTO/obj/Debug/net5.0/Entities.DTO.pdb

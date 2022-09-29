@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "1k9LgCrrXd33PAlGQQo+ZfD8bIKdmlKr3MpJkgoUqozpTSdQJwT+ixAsPyzlQF1MNC8jETwx0+NjCmlb10lnPw==",
+  "success": true,
+  "projectFilePath": "/Users/fgaviriaocam/Documents/GitHub/OrchestratorApi/Entities.Mapping/Entities.Mapping.csproj",
+  "expectedPackageFiles": [
+    "/Users/fgaviriaocam/.nuget/packages/automapper/11.0.1/automapper.11.0.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/csvhelper/28.0.1/csvhelper.28.0.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/mongodb.bson/2.17.1/mongodb.bson.2.17.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/mongodb.driver/2.17.1/mongodb.driver.2.17.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/mongodb.driver.core/2.17.1/mongodb.driver.core.2.17.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/mongodb.libmongocrypt/1.5.5/mongodb.libmongocrypt.1.5.5.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/sharpcompress/0.30.1/sharpcompress.0.30.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/fgaviriaocam/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

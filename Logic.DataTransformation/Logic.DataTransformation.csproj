@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="CsvHelper" Version="28.0.1" />
+    <PackageReference Include="Microsoft.AspNet.Mvc" Version="5.2.9" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="AWSSDK.SecretsManager.Caching" Version="1.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Data.Repository\Data.Repository.csproj" />
+    <ProjectReference Include="..\Entities.DTO\Entities.DTO.csproj" />
+    <ProjectReference Include="..\Entities.Mapping\Entities.Mapping.csproj" />
+    <ProjectReference Include="..\Entities.Model\Entities.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Utils\" />
+    <None Remove="Azure.Identity" />
+    <None Remove="Azure.Security.KeyVault.Secrets" />
+    <None Remove="Azure.Security.KeyVault.Keys" />
+    <None Remove="AWSSDK.SecretsManager" />
+    <None Remove="AWSSDK" />
+    <None Remove="AWSSDK.Core" />
+    <None Remove="AWSSDK.SecretsManager.Caching" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SecurityManager\" />
+  </ItemGroup>
+</Project>
